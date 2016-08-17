@@ -1,4 +1,7 @@
 npm run build
-cp -R img/ css/ data/ locales/ build/. 
+mkdir -p build/css
+npm run autopref
+npm run autopref2
+cp -R img/ data/ locales/ build/. 
 firebase deploy
 

@@ -38,8 +38,6 @@ html {
 body {
   color: #897869;
   background: #bda386; /* Old browsers */
-  background: -moz-linear-gradient(45deg, #bda386 0%, #9d7c5d 29%, #9d7c5d 29%, #eee6bf 55%, #be7a6b 100%); /* FF3.6-15 */
-  background: -webkit-linear-gradient(45deg, #bda386 0%, #9d7c5d 29%, #9d7c5d 29%, #eee6bf 55%, #be7a6b 100%); /* Chrome10-25,Safari5.1-6 */
   background: linear-gradient(45deg, #bda386 0%, #9d7c5d 29%, #9d7c5d 29%, #eee6bf 55%, #be7a6b 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
 }
 
