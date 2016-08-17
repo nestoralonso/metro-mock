@@ -3,7 +3,7 @@
 
 ## Run from the web
 The project is deployed on firebase, just type
-https://recetas-redux.firebaseapp.com
+https://metro-mock.firebaseapp.com
 
 ## Setup and running 
 To install the dependencies
