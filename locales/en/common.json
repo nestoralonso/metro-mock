@@ -1,0 +1,45 @@
+{
+  "account_MyProfile": "My Profile",
+  "account_InviteFriends": "Invite friends",
+  "account_FindFriends": "Find friens",
+  "account_Logout": "Logout",
+  "account_Edit": "Edit",
+  "account_EditProfile": "Profile",
+  "account_AccountSettings": "Account",
+  "account_Followers": "Followers",
+
+  "main-nav__check-in": "Check in",
+  "main-nav__events": "Events",
+  "main-nav__account": "Account",
+  "main-nav__settings": "Settings",
+  "main-nav__english": "English",
+  "main-nav__spanish": "Spanish",
+
+  "widget-profile__followers": "Followers",
+  "widget-profile__edit-user": "Edit User",
+  "widget-profile__Web Statistics": "Web Stats",
+  "widget-profile__upload-settings": "Upload settings",
+  "widget-profile__events": "Events",
+
+  "message-form__contacts": "Contacts",
+  "message-form__subject": "subject",
+  "message-form__error": "\"{{field}}\" cannot be empty",
+  "message-form__message": "Message",
+  "message-form__save-copy": "Save Copy",
+  "message-form__send-button": "Send",
+
+  "webstats__diagram-stats": "Diagram Stats",
+  "webstats__profile": "Profile",
+  "webstats__upload-files": "Upload files",
+  "webstats__share": "Share",
+  "webstats__backup": "Backup",
+  "webstats__audio": "Audio",
+  "webstats__video": "Video",
+  "webstats__photo": "Photo",
+  "webstats__files": "files",
+
+  "stocks__loading": "Loading ...",
+  "stocks__shares-traded": "Shares traded",
+  "stocks__market-cap": "Market Cap",
+  "stocks__yearly-change": "Yearly Change"
+}

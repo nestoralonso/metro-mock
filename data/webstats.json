@@ -1,0 +1,18 @@
+{
+  "audio": {
+    "sizeGb": 4.7,
+    "numFiles": 732
+  },
+  "video": {
+    "sizeGb": 3.2,
+    "numFiles": 254
+  },
+  "photo": {
+    "sizeGb": 2.5,
+    "numFiles": 5412
+  },
+  "other": {
+    "sizeGb": 0.7,
+    "numFiles": 254
+  }
+}

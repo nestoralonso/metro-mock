@@ -1,0 +1,33 @@
+#lang-selector {
+  display: block;
+  float: left;
+  width: 100%;
+  margin-right: initial;
+}
+
+.main-header {
+  display: none;
+}
+
+.nav-main {
+  width: 100%;
+  height: initial;
+}
+
+.lang-selector-wrapper {
+  padding: 0 15px;
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+
+.lang-selector-wrapper i {
+  display: block;
+  order: -1;
+}
+
+.nav-main a {
+  display: block;
+  float: none;
+  background-color: white;
+}
